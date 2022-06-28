@@ -1,0 +1,8 @@
+D:\4. Programms_c#\Logics\bin\Debug\Logics.exe.config
+D:\4. Programms_c#\Logics\bin\Debug\Logics.exe
+D:\4. Programms_c#\Logics\bin\Debug\Logics.pdb
+D:\4. Programms_c#\Logics\obj\Debug\Logics.csproj.AssemblyReference.cache
+D:\4. Programms_c#\Logics\obj\Debug\Logics.csproj.SuggestedBindingRedirects.cache
+D:\4. Programms_c#\Logics\obj\Debug\Logics.csproj.CoreCompileInputs.cache
+D:\4. Programms_c#\Logics\obj\Debug\Logics.exe
+D:\4. Programms_c#\Logics\obj\Debug\Logics.pdb

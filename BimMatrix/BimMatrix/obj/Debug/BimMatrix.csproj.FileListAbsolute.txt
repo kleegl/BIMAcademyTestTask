@@ -1,0 +1,8 @@
+D:\4. Programms_c#\TestTasks\BimMatrix\BimMatrix\bin\Debug\BimMatrix.exe.config
+D:\4. Programms_c#\TestTasks\BimMatrix\BimMatrix\bin\Debug\BimMatrix.exe
+D:\4. Programms_c#\TestTasks\BimMatrix\BimMatrix\bin\Debug\BimMatrix.pdb
+D:\4. Programms_c#\TestTasks\BimMatrix\BimMatrix\obj\Debug\BimMatrix.csproj.AssemblyReference.cache
+D:\4. Programms_c#\TestTasks\BimMatrix\BimMatrix\obj\Debug\BimMatrix.csproj.SuggestedBindingRedirects.cache
+D:\4. Programms_c#\TestTasks\BimMatrix\BimMatrix\obj\Debug\BimMatrix.csproj.CoreCompileInputs.cache
+D:\4. Programms_c#\TestTasks\BimMatrix\BimMatrix\obj\Debug\BimMatrix.exe
+D:\4. Programms_c#\TestTasks\BimMatrix\BimMatrix\obj\Debug\BimMatrix.pdb

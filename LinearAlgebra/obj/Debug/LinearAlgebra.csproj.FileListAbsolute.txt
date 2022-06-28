@@ -1,0 +1,8 @@
+D:\4. Programms_c#\TestTasks\LinearAlgebra\bin\Debug\LinearAlgebra.exe.config
+D:\4. Programms_c#\TestTasks\LinearAlgebra\bin\Debug\LinearAlgebra.exe
+D:\4. Programms_c#\TestTasks\LinearAlgebra\bin\Debug\LinearAlgebra.pdb
+D:\4. Programms_c#\TestTasks\LinearAlgebra\obj\Debug\LinearAlgebra.csproj.AssemblyReference.cache
+D:\4. Programms_c#\TestTasks\LinearAlgebra\obj\Debug\LinearAlgebra.csproj.SuggestedBindingRedirects.cache
+D:\4. Programms_c#\TestTasks\LinearAlgebra\obj\Debug\LinearAlgebra.csproj.CoreCompileInputs.cache
+D:\4. Programms_c#\TestTasks\LinearAlgebra\obj\Debug\LinearAlgebra.exe
+D:\4. Programms_c#\TestTasks\LinearAlgebra\obj\Debug\LinearAlgebra.pdb

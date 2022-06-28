@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2beb17c-18fb-44ff-8452-c471b200a3cf": {
+      "ProjectGuid": "a2beb17c-18fb-44ff-8452-c471b200a3cf",
+      "DisplayName": "LinearAlgebra",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

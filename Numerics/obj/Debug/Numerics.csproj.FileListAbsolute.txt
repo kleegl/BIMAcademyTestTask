@@ -1,0 +1,8 @@
+D:\4. Programms_c#\Numerics\bin\Debug\Numerics.exe.config
+D:\4. Programms_c#\Numerics\bin\Debug\Numerics.exe
+D:\4. Programms_c#\Numerics\bin\Debug\Numerics.pdb
+D:\4. Programms_c#\Numerics\obj\Debug\Numerics.csproj.AssemblyReference.cache
+D:\4. Programms_c#\Numerics\obj\Debug\Numerics.csproj.SuggestedBindingRedirects.cache
+D:\4. Programms_c#\Numerics\obj\Debug\Numerics.csproj.CoreCompileInputs.cache
+D:\4. Programms_c#\Numerics\obj\Debug\Numerics.exe
+D:\4. Programms_c#\Numerics\obj\Debug\Numerics.pdb

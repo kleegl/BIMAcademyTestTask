@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcba39a9-f274-42a7-ab35-a9c419bcf95c": {
+      "ProjectGuid": "fcba39a9-f274-42a7-ab35-a9c419bcf95c",
+      "DisplayName": "ManagerConsole",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
