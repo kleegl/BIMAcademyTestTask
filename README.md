@@ -25,4 +25,4 @@ Three sections:
   * Finding the index of the last occurrence of a number. The number is entered from the console.
   * Finding the indexes of all occurrences of a number. The number is entered from the console.
   * Finding all numbers that are multiples of m.
-  * + Repeat the same with Linq
+  * Repeat the same with Linq
