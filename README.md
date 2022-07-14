@@ -1,7 +1,6 @@
 # Test Task BIM Academy
-Five sections:
-1. BIM Matrix - in progress
-2. Linear Algebra - done✔️
-3. Logics - done✔️
-4. Manager Console - done✔️
-5. Numerics - done✔️
+Four sections:
+1. Linear Algebra - done✔️
+2. Logics - done✔️
+3. Manager Console - done✔️
+4. Numerics - done✔️
