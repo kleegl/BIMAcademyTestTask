@@ -1,4 +1,4 @@
-# Test Task BIM Academy
+# BIM Academy Test Task 
 Three sections:
 1. Linear Algebra✔️
   * Calculates the sum of two matrices
